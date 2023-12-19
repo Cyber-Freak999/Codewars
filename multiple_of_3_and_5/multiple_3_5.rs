@@ -1,7 +1,4 @@
 fn main() {
-    for i in 1..5 {
-        println!("{}", i*2);
-    }
     let sum = solution(10);
     println!("{}", sum);
 }
